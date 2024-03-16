@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "title": "Sunset Over the Ocean",
+      "description": "An evocative oil painting capturing the serene beauty of a sunset sinking below the ocean horizon, rendered in vibrant colors.",
+      "thumbnail": "https://i.ibb.co/7vkHDYr/pexels-james-wheeler-417074.jpg"
+    },
+    {
+      "id": 2,
+      "title": "The Modern Prometheus",
+      "description": "A dramatic sculpture depicting the mythical figure Prometheus in mid-motion, symbolizing the human quest for knowledge.",
+      "thumbnail": "https://i.ibb.co/TT2vXcP/pexels-pixabay-358457-3.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Abstract Emotions",
+      "description": "A captivating abstract painting that uses chaotic strokes and a bold palette to evoke complex emotions.",
+      "thumbnail": "https://i.ibb.co/xLp7K1T/pexels-david-besh-884788.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Renaissance Rebirth",
+      "description": "A digital art piece that reimagines Renaissance themes with modern techniques, blending past and present.",
+      "thumbnail": "https://i.ibb.co/7GYfFnv/pexels-francesco-ungaro-2835436-1.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Urban Sprawl",
+      "description": "A mixed media creation that reflects on the growth and impact of urbanization, using recycled materials.",
+      "thumbnail": "https://i.ibb.co/S5LzVp9/pexels-pixabay-259280.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Garden of Dreams",
+      "description": "An enchanting landscape painting that invites the viewer into a lush, dreamlike garden full of vibrant flora.",
+      "thumbnail": "https://i.ibb.co/MPJ0fjF/pexels-johannes-plenio-2080960.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Faces of the World",
+      "description": "A series of portraits that celebrate human diversity, each piece telling the story of individuals from different cultures.",
+      "thumbnail": "https://i.ibb.co/brr1VN6/pexels-rafael-cerqueira-4737484.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Echoes of the Past",
+      "description": "A hauntingly beautiful installation that uses sound, light, and shadow to evoke memories of historical events.",
+      "thumbnail": "https://i.ibb.co/dL2bMKX/pexels-tim-mossholder-1000653.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Mechanical Wonders",
+      "description": "An exhibition of kinetic sculptures that mimic natural movements through mechanical means, blending art and engineering.",
+      "thumbnail": "https://i.ibb.co/b2g0QR0/pexels-piccinng-3075993.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Cosmic Dance",
+      "description": "A mesmerizing space-themed mural that explores the vastness of the universe and our place within it, painted on a grand scale.",
+      "thumbnail": "https://i.ibb.co/ZmVgH26/pexels-aleksandar-pasaric-2341830.jpg"
+    }
+  ]
+  
